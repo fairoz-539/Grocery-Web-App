@@ -9,7 +9,7 @@ Welcome to Online Web Application. Groceville is an online grocery shopping web 
 - [Technologies Used](#-Technologies-used)
 - [Dependencies](#-Dependencies)
 - [Getting Started](#-Getting-started)
-- [Working with Flask, HTML, and CSS](#-Gorking-with-Flask-Html-and-Css)
+- [Working with Flask, HTML, and CSS](#-Working-with-Flask-HTML-and-CSS)
 - [Usage](#-Usage)
 - [Database](#-Database)
 - [Contributing](#-Contributing)
