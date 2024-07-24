@@ -4,16 +4,16 @@
 Welcome to Online Web Application. Groceville is an online grocery shopping web application, similar to BigBasket, but currently in the development phase.
 
 ## 📋 Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Dependencies](#dependencies)
-- [Getting Started](#getting-started)
-- [Working with Flask, HTML, and CSS](#working-with-flask-html-and-css)
-- [Usage](#usage)
-- [Database](#database)
-- [Contributing](#contributing)
-- [License](#license)
+- [About](#-About)
+- [Features](#-Features)
+- [Technologies Used](#-Technologies-used)
+- [Dependencies](#-Dependencies)
+- [Getting Started](#-Getting-started)
+- [Working with Flask, HTML, and CSS](#-Gorking-With-Flask-Html-and-Css)
+- [Usage](#-Usage)
+- [Database](#-Database)
+- [Contributing](#-Contributing)
+- [License](#-License)
 
 ## 🏪 About
 
